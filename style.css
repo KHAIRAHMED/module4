@@ -13,6 +13,7 @@ h1{
     margin-left: 5%;
     padding-left: 2%;
     float: left;
+    height: 500px;
    
 
     
@@ -51,6 +52,7 @@ section{
     background-image: url("images/exp-bg.png");
     background-position: left;
     background-repeat: no-repeat;
+    height: 500px;
 }
 .full_stock{
     box-shadow: 10px 10px 40px gray;
@@ -70,4 +72,7 @@ section{
     border-image: linear-gradient(180deg,lightsalmon tomato);
     border-image-slice: 1;
 
+}
+footer p{
+    text-align: center;
 }
